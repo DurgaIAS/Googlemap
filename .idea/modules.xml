@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\project\GoogleMapsdirection2\GoogleMaps-master.iml" filepath="C:\project\GoogleMapsdirection2\GoogleMaps-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GoogleMapsdirection2.iml" filepath="$PROJECT_DIR$/.idea/GoogleMapsdirection2.iml" />
+      <module fileurl="file://C:\project\GoogleMapsdirection2\MapsNearbyPlaces.iml" filepath="C:\project\GoogleMapsdirection2\MapsNearbyPlaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
